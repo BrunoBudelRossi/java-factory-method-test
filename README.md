@@ -1,7 +1,7 @@
-Nesta prova será necessário implementar os métodos das classes conforme descrições dos Javadocs correpondentes.
+## Carrinho de Compras
+Este é um projeto em Java que implementa um carrinho de compras. Ele permite adicionar produtos, removê-los, calcular o total da compra, exibir os itens presentes no carrinho e calcular o valor do ticket médio da Factory.
 
-Você poderá criar novos atributos e métodos, mas é proibido mover as classes de pacote. Também é proibido mudar a assinatura dos métodos e construtores já existentes, exceto o construtor da classe CarrinhoCompras.
-
-A prova deve ser resolvida utilizando obrigatoriamente Java 8. Não será necessário implementar nenhum tipo de interface gráfica ou mecanismo de persistência.
-
-Todos os requisitos funcionais tem que ser atendidos 100% para que sua solução seja aprovada. Sua prova precisa compilar via Maven, impreterivelmente - não basta rodar apenas via sua IDE.
+# Requisitos
+Para compilar e executar o projeto, é necessário ter o seguinte:
+1. Java 8
+2. Maven
